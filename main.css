@@ -1,0 +1,32 @@
+body {background-color: white; background-image: url('10.jpg');}
+#maindiv {width:900px; height: 100%; background-color:#FFFAFA; }
+#header { width: 100%; height: 30px; background-color: #FFFAFA; background-image:url('polosa.png');}
+a.header{color:white;}
+#headline { width: 100%;}
+#search {background-color:#00CED1; background-image:url('fon.png'); width:100%;}
+#menu2 { 
+float:left; width: 19%; height: 200px; background-color: white; background-image: url('brown680.jpg')}
+#contentblock {
+width:81%; float:right; height:100%;}
+a.titles {font-family: Georgia; font-size:15px; color:darkred;}
+i.titles {color:graytext}
+a.order {color:saddlebrown}
+a.order:visited {color:lightsalmon}
+a.up {color:pink}
+a.down {color:green}
+a.page {color: darkcyan}
+a.menu {color: darkred; font-size:18px; font-family: Georgia}
+a.menu:hover {color:lightpink}
+a.title {font-family: Georgia; font-size:16px; color: firebrick}
+
+img#cover { width:200px; height: 300px; padding-bottom:10px}   
+font.title{font-style:oblique; font-weight: bold; color: darkslategray }
+b.price { color:hotpink; font-family: Verdana; font-size: 18px }
+p.price {padding-top:20px;}
+h2.title{ color:darkred }
+
+a.footer {color: bisque; padding-left:100px}
+
+#news { width:100%; border: 1px double  indianred; height: 200px; padding-top:20px;}
+a.news {font-family: Verdana; font-size:16px ; color: chocolate; padding-left:20px;}
+#novinki {width:100%; border:1px double  bisque; height:100%;}
